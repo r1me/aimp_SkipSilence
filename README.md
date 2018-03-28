@@ -1,5 +1,5 @@
 # aimp_SkipSilence
-[aimp-skip-silence-logo](aimp_SkipSilence_sm.png)  
+![aimp-skip-silence-logo](aimp_SkipSilence_sm.png)  
 
 Source code for "SkipSilence" AIMP plugin.
 Provides an ability to skip silence in begining and end of file. 
